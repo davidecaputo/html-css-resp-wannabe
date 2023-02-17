@@ -144,4 +144,8 @@ img {
     .row{
         flex-flow: row wrap;
     }
+
+    .steps .col{
+        width: 100%;
+    }
  }
